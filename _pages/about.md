@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student at Carnegie Mellon University and I am currently advised by Professors Kathleen Carley, Patrick Park, and Bogdan Vasilescu. I am broadly interested in ML and Computational Social Science. 
+I am a Master's student at the School of Computer Science at Carnegie Mellon University, currently advised by Professors Kathleen Carley, Patrick Park, and Bogdan Vasilescu. My broad interests lie in Machine Learning and Computational Social Science.
 
-My current research is in studying the digital factors that enable or inhibit civil communication on social media. Specifically, I want to investigate the capacity of individuals to freely share their views and build relationships in online discourse, particularly through the lens of the multimodal dynamics of emotions. 
+My current research focuses on studying the digital factors that enable or inhibit civil communication on social media. Specifically, I aim to investigate individuals' capacity to freely share their views and build relationships in online discourse, with a particular emphasis on the multimodal dynamics of emotions.
 
-Meaningful Self-Expression: I want to better understand the factors that affect people’s capacity to freely share their views and remove barriers to this through platform and policy design. 
+Meaningful Self-Expression: I seek to understand the factors that influence people’s ability to share their views freely and to identify ways to remove barriers to this through thoughtful platform and policy design.
 
-Emotional Dynamics in Online Discourse: I want to analyze the mechanisms through which different modalities of content on social media influence user beliefs in misinformation and drive political polarization.
+Emotional Dynamics in Online Discourse: I am interested in analyzing the mechanisms by which different content modalities on social media impact user beliefs in misinformation and contribute to political polarization.
 
 A data-driven personal website
 ======
