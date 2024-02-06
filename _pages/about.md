@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student at the School of Computer Science at Carnegie Mellon University, currently advised by Professors Kathleen Carley, Patrick Park, and Bogdan Vasilescu. My broad interests lie in Machine Learning and Computational Social Science.
+Welcome to my personal website (still under construction). I am a Master's student at the School of Computer Science at Carnegie Mellon University, currently advised by Professors Kathleen Carley, Patrick Park, and Bogdan Vasilescu. My broad interests lie in Machine Learning and Computational Social Science.
 
 My current research focuses on studying the digital factors that enable or inhibit civil communication on social media. Specifically, I aim to investigate individuals' capacity to freely share their views and build relationships in online discourse, with a particular emphasis on the multimodal dynamics of emotions.
 
