@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Henry George Xu"
   avatar           : "Henry_Xu_photo_personal_website.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a Master's student at the School of Computer Science at Carnegie Mellon University, currently advised by Professors Kathleen Carley, Patrick Park, and Bogdan Vasilescu. My broad interests lie in Machine Learning and Computational Social Science."
   location         : "Pittsburgh, Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "henryxu1997"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/xuhenry/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
