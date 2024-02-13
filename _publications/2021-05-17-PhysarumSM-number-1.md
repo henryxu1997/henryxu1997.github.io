@@ -5,7 +5,7 @@ permalink: /publication/2021-05-17-PhysarumSM-number-1
 date: 2021-05-17
 venue: '2021 IFIP/IEEE International Symposium on Integrated Network Management (IM)'
 paperurl: 'https://ieeexplore.ieee.org/document/9464074'
-citation: 'T. Lin, W. Zhao, I. Co, A. Chen, H. Xu and A. Leon-Garcia, "PhysarumSM: P2P Service Discovery and Allocation in Dynamic Edge Networks," 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM), Bordeaux, France, 2021, pp. 304-312. keywords: {Performance evaluation;Cloud computing;Prototypes;Quality of service;Computer architecture;Dynamic scheduling;Mobile handsets}'
+citation: 'T. Lin, W. Zhao, I. Co, A. Chen, **H. Xu** and A. Leon-Garcia, "PhysarumSM: P2P Service Discovery and Allocation in Dynamic Edge Networks," 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM), Bordeaux, France, 2021, pp. 304-312. keywords: {Performance evaluation;Cloud computing;Prototypes;Quality of service;Computer architecture;Dynamic scheduling;Mobile handsets}'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/document/9464074)
