@@ -160,6 +160,10 @@ hr {
   border-top: 1px solid $border-color;
 }
 
+p, li, dl {
+  font-size: 0.875em; /* This ensures the desired font size applies globally */
+}
+
 /* lists */
 
 ul li,
