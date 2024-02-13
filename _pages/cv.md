@@ -72,7 +72,7 @@ Advised by **Prof. Yonatan Bisk**
 - Implemented a multimodal encoder (CNN + Vision Transformer with reconstruction loss) to process input data from various sources, such as a fish-eye camera, depth sensor, and LiDAR
 - Implemented various RL agents that employ Conservative Q-Learning (CQL) for offline learning of navigation policies
 
-Study of Everyday User Auditing of Large Language Models 
+### Study of Everyday User Auditing of Large Language Models 
 **Mar. 2023 – Apr.2023**  
 Advised by **Prof. Hoda Heidari**
 - Investigated how everyday users audit ChatGPT and its backend, the GPT3.5/4 models
