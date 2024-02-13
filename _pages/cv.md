@@ -21,6 +21,12 @@ Research experience
 * • Led the investigation of the structure of cross-national collaboration in open-source software development, focusing on cultural and geopolitical factors. Through analyzing the GitHub Innovation Graph dataset from 2020 to 2023, uncovered patterns such as U.S. dominance, cultural homophily, and the significant impacts of geopolitical events on OSS networks.
 * • First author submission titled “The Structure of Cross-National Collaboration in Open-Source Software Development” to CSCW 2024.
 
+### Long-running Tie Project
+**Aug. 2023 – Current**  
+Advised by **Prof. Patrick S. Park** and **Prof. Kathleen Carley**
+- Conducting analysis on long-standing network ties and their impacts on controversial topics.
+- Developed a BERT-based model for analyzing discussions within the network.
+
 Long-running Tie Project Aug. 2023 – Current
 Advised by Prof. Patrick S. Park and Prof. Kathleen Carley
 • Conducting a comprehensive analysis to assess whether long-standing network ties can help buffer against divergent opinions on controversial topics like COVID-19 and elections
