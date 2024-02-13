@@ -16,10 +16,10 @@ Education
 
 Research experience
 ======
-The Structure of Cross-National Collaboration in OSS Nov. 2023 – Jan. 2024
-Advised by Prof. Patrick S. Park and Prof. Bogdan Vasilescu
-• Led the investigation of the structure of cross-national collaboration in open-source software development, focusing on cultural and geopolitical factors. Through analyzing the GitHub Innovation Graph dataset from 2020 to 2023, uncovered patterns such as U.S. dominance, cultural homophily, and the significant impacts of geopolitical events on OSS networks.
-• First author submission titled “The Structure of Cross-National Collaboration in Open-Source Software Development” to CSCW 2024.
+* The Structure of Cross-National Collaboration in OSS Nov. 2023 – Jan. 2024
+* Advised by Prof. Patrick S. Park and Prof. Bogdan Vasilescu
+* • Led the investigation of the structure of cross-national collaboration in open-source software development, focusing on cultural and geopolitical factors. Through analyzing the GitHub Innovation Graph dataset from 2020 to 2023, uncovered patterns such as U.S. dominance, cultural homophily, and the significant impacts of geopolitical events on OSS networks.
+* • First author submission titled “The Structure of Cross-National Collaboration in Open-Source Software Development” to CSCW 2024.
 
 Long-running Tie Project Aug. 2023 – Current
 Advised by Prof. Patrick S. Park and Prof. Kathleen Carley
