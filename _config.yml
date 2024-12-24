@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Henry George Xu"
 title_separator          : "-"
 name                     : &name "Henry George Xu"
-description              : &description "Research Assistant at Carnegie Mellon University"
+description              : &description "Research Assistant at Massachusetts Institute of Technology"
 url                      : https://henryxu1997.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "henryxu1997.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Henry George Xu"
   avatar           : "Henry_Xu_photo_personal_website.jpg"
-  bio              : "I am a Master's student at the School of Computer Science at Carnegie Mellon University, currently advised by Professors Kathleen Carley, Patrick Park, and Bogdan Vasilescu. My broad interests lie in Machine Learning and Computational Social Science."
-  location         : "Pittsburgh, Pennsylvania"
+  bio              : "I am a Research Assistant at the MIT Sloan School of Management, currently advised by Professors David Rand, Gordan Pennycook, and Thomas Costello. My broad interests lie in Computational Social Science and Machine Learning."
+  location         : "Cambridge, Massachusetts"
   employer         :
   pubmed           : 
   googlescholar    : 
