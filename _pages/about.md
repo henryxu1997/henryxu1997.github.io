@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome to my personal website. I am a Research Assistant at the **MIT Sloan School of Management**, currently advised by Professors **David Rand**, **Gordan Pennycook**, and **Thomas Costello**. My broad interests lie in **Computational Social Science** and **Machine Learning**.
 
-My research focuses on understanding mechanisms of persuasion and belief formation through computational and experimental methods. Specifically, I leverage AI-enabled dialogues and advanced analytical techniques to study how different persuasive elements influence attitudes and beliefs.
+My research focuses on understanding mechanisms of persuasion and belief formation through computational and experimental methods. 
 
-**Mechanisms of Persuasion**: I study how different persuasive elements interact to shape belief formation, using AI-enabled personalized dialogues as a methodological tool to systematically test these mechanisms.
+**Mechanisms of Persuasion**: I use AI-enabled personalized dialogues as a methodological tool to systematically study belief formation and attitude change.
 
 **Computational Methods for Social Sciences**: I develop novel analytical pipelines combining NLP and machine learning to analyze experimental data in social science. My work includes building targeted measurement tools for persuasion strategies, uncovering hidden behavioral patterns in dialogues, and creating frameworks to validate experimental manipulations.
 
