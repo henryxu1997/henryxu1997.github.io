@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I am a Research Assistant at the **MIT Sloan School of Management**, currently advised by Professors **David Rand**, **Gordan Pennycook**, and **Thomas Costello**. My broad interests lie in **Computational Social Science** and **Machine Learning**.
+Welcome to my personal website. I am a Research Assistant at the **MIT Sloan School of Management**, currently advised by **Professors David Rand**, **Gordan Pennycook**, and **Thomas Costello**. My broad interests lie in **Computational Social Science** and **Machine Learning**.
 
 My research focuses on understanding mechanisms of persuasion and belief formation through computational and experimental methods. 
 
