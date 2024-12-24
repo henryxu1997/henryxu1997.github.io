@@ -15,6 +15,8 @@ My research focuses on understanding mechanisms of persuasion and belief formati
 
 **Computational Methods for Social Sciences**: I develop novel analytical pipelines combining NLP and machine learning to analyze experimental data in social science. My work includes building targeted measurement tools for persuasion strategies, uncovering hidden behavioral patterns in dialogues, and creating frameworks to validate experimental manipulations.
 
-Before grad school, I worked on anomaly detection in IoT devices at the **University of Toronto**, collaborating with **Professors Alberto Leon-Garcia** and **Mehdi Shajari**. I completed my undergraduate degree in **Computer Engineering** at the same university, publishing work on microservices orchestration with Professor Alberto Leon-Garcia.
+Before coming to MIT, I completed my master's at the School of Computer Science at Carnegie Mellon University, where I was advised by **Professor Patrick Park**. My research there examined how strong pre-existing social ties on Twitter could maintain relationships despite differing views on controversial topics, demonstrating that these connections could serve as bridges across ideological divides.
 
-Professionally, I've gained diverse software engineering experience at **Telus, Coursera, Amazon, and Xilinx**, focusing on developing and implementing practical solutions across various projects.
+Before grad school, I worked on anomaly detection in IoT networks at the **University of Toronto** with **Professors Alberto Leon-Garcia** and **Mehdi Shajari**. I completed my undergraduate degree in **Computer Engineering** at the same university, where I published work on microservices orchestration with Professor Leon-Garcia.
+
+Professionally, I've gained diverse software engineering experience at **Telus, Coursera, Amazon, and Xilinx**, where I developed and implemented practical solutions across various projects.
