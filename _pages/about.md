@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I am a Master's student at the **School of Computer Science** at **Carnegie Mellon University**, currently advised by **Professors Kathleen Carley, Patrick Park, and Bogdan Vasilescu**. My broad interests lie in **Machine Learning** and **Computational Social Science**.
+Welcome to my personal website. I am a Research Assistant at the **MIT Sloan School of Management**, currently advised by Professors David Rand, Gordan Pennycook, and Thomas Costello. My broad interests lie in **Computational Social Science** and **Machine Learning**.
 
-My current research focuses on studying the digital factors that enable or inhibit civil communication on social media. Specifically, I aim to investigate individuals' capacity to freely share their views and build relationships in online discourse, with a particular emphasis on the multimodal dynamics of emotions.
+My research focuses on understanding mechanisms of persuasion and belief formation through computational and experimental methods. Specifically, I leverage AI-enabled dialogues and advanced analytical techniques to study how different persuasive elements influence attitudes and beliefs.
 
-**Meaningful Self-Expression**: I seek to understand the factors that influence people’s ability to share their views freely and to identify ways to remove barriers to this through thoughtful platform and policy design.
+**Mechanisms of Persuasion**: I study how different persuasive elements interact to shape belief formation, using AI-enabled personalized dialogues as a methodological tool to systematically test these mechanisms.
 
-**Emotional Dynamics in Online Discourse**: I am interested in analyzing the mechanisms by which different content modalities on social media impact user beliefs in **misinformation** and contribute to **political polarization**.
+**Computational Methods for Social Sciences**: I develop novel analytical pipelines combining NLP and machine learning to analyze experimental data in social science. My work includes building targeted measurement tools for persuasion strategies, uncovering hidden behavioral patterns in dialogues, and creating frameworks to validate experimental manipulations.
 
 Before grad school, I worked on anomaly detection in IoT devices at the **University of Toronto**, collaborating with **Professors Alberto Leon-Garcia** and **Mehdi Shajari**. I completed my undergraduate degree in **Computer Engineering** at the same university, publishing work on microservices orchestration with Professor Alberto Leon-Garcia.
 
