@@ -1,6 +1,6 @@
 .publications .content-section {
-    margin-top: 20px;
-    margin-bottom: 25px; /* Reduced from 40px to bring publications closer together */
+    margin-top: 10px;
+    margin-bottom: 15px; /* Reduced from 40px to bring publications closer together */
 }/* Base styles and reset */
 * {
     margin: 0;
@@ -35,7 +35,7 @@ h1 {
 h2 {
     font-size: 1.3rem;
     font-weight: 300;
-    margin: 0 0 20px; /* Reduce bottom margin to bring publications closer to heading */
+    margin: 0 0 10px; /* Reduce bottom margin to bring publications closer to heading */
     color: #333;
     text-align: center;
 }
@@ -81,7 +81,7 @@ hr {
 
 .content-section:first-of-type {
     margin-top: 80px;
-    margin-bottom: 150px; /* Increase space even more after the profile section */
+    margin-bottom: 100px; /* Increase space even more after the profile section */
 }
 
 /* Content Section - Common layout for profile and publications */
