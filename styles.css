@@ -93,7 +93,7 @@ hr {
 .left-column {
     width: 200px;
     flex-shrink: 0;
-    margin-right: 100px;
+    margin-right: 60px;
 }
 
 .right-column {
