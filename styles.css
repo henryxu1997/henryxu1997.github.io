@@ -119,6 +119,32 @@ hr {
     border-radius: 4px;
 }
 
+.preprint-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+/* Preprints */
+.preprints {
+    margin-bottom: 60px;
+}
+
+.preprints h2 {
+    margin-top: 0;
+}
+
+.preprints .content-section {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.preprints .content-section:last-child {
+    margin-bottom: 0;
+}
+
 /* Publications */
 .publications {
     margin-bottom: 60px;
